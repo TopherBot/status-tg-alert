@@ -1,0 +1,2 @@
+httpx>=0.27.0
+# Async HTTP client – light, no extra runtime dependencies
