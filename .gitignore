@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+.env
+# Virtual envs
+venv/
+.venv/
+# Build artifacts
+build/
+dist/
+*.egg-info/
+# Docker
+*.log
+# VS Code
+.vscode/
+# IDEs
+.idea/
+*.iml
